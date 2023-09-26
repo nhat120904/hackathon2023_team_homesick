@@ -1,0 +1,12 @@
+version: '3'
+services:
+  homesick_fe:
+    # image: homesick_fe
+    ports:
+      - "5173:5173"
+
+  homesick_be:
+    # image: homesick_be
+    ports:
+      - "8765:8765"
+      - "8766:8766"

@@ -1,0 +1,12 @@
+address: null
+price: null
+property_type: null
+area: null
+bedrooms: null
+bathrooms: null
+house_direction: null
+description: null
+floors: null
+installment_payment: null
+furniture: null
+balcony_direction: null
